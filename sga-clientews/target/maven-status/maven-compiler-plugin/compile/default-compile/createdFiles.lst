@@ -1,0 +1,7 @@
+clientesga\ws\Persona.class
+clientesga\ws\ListarPersonasResponse.class
+clientesga\ws\PersonaServiceImplService.class
+clientesga\ws\package-info.class
+clientesga\ws\ObjectFactory.class
+clientesga\ws\ListarPersonas.class
+clientesga\ws\PersonaServiceWS.class

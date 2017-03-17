@@ -1,0 +1,15 @@
+mx\com\gm\sga\eis\UsuarioDao.class
+mx\com\gm\sga\domain\Usuario.class
+mx\com\gm\sga\web\PersonaBean.class
+mx\com\gm\sga\servicio\rest\PersonaServiceRS.class
+mx\com\gm\sga\servicio\PersonaServiceImpl.class
+mx\com\gm\sga\servicio\PersonaService.class
+mx\com\gm\sga\cliente\ClientePersonaService.class
+mx\com\gm\sga\servicio\PersonaServiceRemote.class
+mx\com\gm\sga\eis\UsuarioDaoImpl.class
+mx\com\gm\sga\eis\PersonaDao.class
+mx\com\gm\sga\eis\PersonaDaoImpl.class
+mx\com\gm\sga\servicio\PersonaServiceWS.class
+mx\com\gm\sga\domain\Persona.class
+mx\com\gm\sga\servicio\UsuarioServiceImpl.class
+mx\com\gm\sga\servicio\UsuarioService.class
